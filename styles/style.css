@@ -1,5 +1,6 @@
 body {
-  background-image: url(background.jpg);
+  background-image: url("https://github.com/annanas93/gunviolenceUSA/blob/master/styles/background.jpg?raw=true");
+  background-color: 
   background-repeat: no-repeat;
   background-size: cover;
 }
