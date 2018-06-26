@@ -25,20 +25,10 @@ div.transbox p {
   color: white;
 }
 
-.bokeh_left {
+.bokeh {
+  display:inline-block;
   height: 1300px;
   width: 1300px;
-  align: left;
 }
 
-.bokeh_right {
-  height: 650px;
-  width: 650px;
-  align: right;
-}
 
-.bokeh_center {
-  height: 650px;
-  width: 650px;
-  align: center;
-}
